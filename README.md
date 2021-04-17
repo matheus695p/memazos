@@ -5,6 +5,9 @@
 
 Bateria de wenos memazos para usar en los readmes y hacer más entretenida la lectura / tengo repos serios**
 
+No es mucho pero es trabajo honesto uwu!
+
+
 * 1)
 <p align="center">
   <img src="./src_de_memes/0.png">
@@ -104,13 +107,13 @@ Bateria de wenos memazos para usar en los readmes y hacer más entretenida la le
 
 * 16)
 <p align="center">
-  <img src="./src_de_memes/16.jpg">
+  <img src="./src_de_memes/16.png">
 </p>
 
 
 * 17)
 <p align="center">
-  <img src="./src_de_memes/17.jpg">
+  <img src="./src_de_memes/17.png">
 </p>
 
 
