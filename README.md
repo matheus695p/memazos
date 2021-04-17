@@ -58,7 +58,7 @@ No es mucho pero es trabajo honesto uwu!
 
 * 9)
 <p align="center">
-  <img src="./src_de_memes/8.png">
+  <img src="./src_de_memes/8.jpg">
 </p>
 
 
