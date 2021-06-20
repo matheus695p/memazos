@@ -3,8 +3,7 @@
 
 # memazos
 
-Bateria de wenos memazos para usar en los readmes y hacer más entretenida la lectura / tengo repos serios**
-
+Bateria de memes para usar en los readmes
 No es mucho pero es trabajo honesto uwu!
 
 
